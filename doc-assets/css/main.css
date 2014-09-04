@@ -1,0 +1,13 @@
+/* online tools navigation */
+
+body {
+  background-image: url(/doc-assets/img/webbg.gif) !important;
+}
+
+.otn-item {
+  height: 180px;
+}
+
+#otn-tope {
+  height: 60px;
+}
